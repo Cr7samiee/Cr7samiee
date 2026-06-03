@@ -1,0 +1,37 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#F8FAFC"/>
+  <rect x="24" y="24" width="1152" height="312" rx="24" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2"/>
+  <path d="M24 285C150 234 236 322 355 266C462 216 545 120 678 178C811 236 883 249 1000 198C1077 164 1137 172 1176 190V312C1176 325.255 1165.25 336 1152 336H48C34.7452 336 24 325.255 24 312V285Z" fill="#E0F2FE"/>
+  <path d="M24 303C151 252 243 328 376 295C506 263 566 203 697 229C828 255 894 318 1035 273C1092 255 1138 258 1176 272V312C1176 325.255 1165.25 336 1152 336H48C34.7452 336 24 325.255 24 312V303Z" fill="#CCFBF1"/>
+
+  <circle cx="1015" cy="88" r="48" fill="#FEF3C7"/>
+  <circle cx="1015" cy="88" r="27" fill="#F2C811"/>
+  <rect x="886" y="154" width="196" height="122" rx="16" fill="#111827"/>
+  <rect x="904" y="174" width="50" height="84" rx="8" fill="#2563EB"/>
+  <rect x="966" y="198" width="50" height="60" rx="8" fill="#14B8A6"/>
+  <rect x="1028" y="136" width="50" height="122" rx="8" fill="#F97316"/>
+  <path d="M915 206L948 191L984 211L1019 176L1061 188" stroke="#F8FAFC" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="948" cy="191" r="7" fill="#F2C811"/>
+  <circle cx="984" cy="211" r="7" fill="#F2C811"/>
+  <circle cx="1019" cy="176" r="7" fill="#F2C811"/>
+
+  <g opacity="0.85">
+    <rect x="94" y="70" width="68" height="68" rx="18" fill="#DBEAFE"/>
+    <path d="M114 105H142M128 91V119" stroke="#2563EB" stroke-width="8" stroke-linecap="round"/>
+    <rect x="178" y="70" width="68" height="68" rx="18" fill="#DCFCE7"/>
+    <path d="M197 111C209 93 226 93 238 111" stroke="#14B8A6" stroke-width="8" stroke-linecap="round"/>
+    <rect x="262" y="70" width="68" height="68" rx="18" fill="#FEF3C7"/>
+    <path d="M283 116L296 90L309 116" stroke="#F97316" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="94" y="188" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Samir Poudel</text>
+  <text x="96" y="230" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">AI &amp; Data Science Enthusiast</text>
+  <text x="96" y="270" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">BIT Student • Dashboard Builder • Web &amp; Smart Systems Explorer</text>
+
+  <g transform="translate(628 78)">
+    <rect x="0" y="0" width="188" height="70" rx="18" fill="#ECFDF5" stroke="#99F6E4" stroke-width="2"/>
+    <text x="22" y="43" fill="#0F766E" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="800">Power BI vibe</text>
+    <rect x="24" y="96" width="144" height="44" rx="14" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="2"/>
+    <text x="42" y="125" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="800">Python + SQL</text>
+  </g>
+</svg>

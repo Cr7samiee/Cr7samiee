@@ -1,0 +1,38 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" rx="24" fill="#F8FAFC"/>
+  <rect x="28" y="28" width="1144" height="374" rx="22" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2"/>
+  <text x="60" y="78" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Samir's Learning Dashboard</text>
+  <text x="60" y="111" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Power BI inspired board for AI, Data Science, and project building</text>
+
+  <rect x="60" y="145" width="245" height="92" rx="18" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="2"/>
+  <text x="84" y="181" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Main Focus</text>
+  <text x="84" y="216" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">AI + Data</text>
+
+  <rect x="330" y="145" width="245" height="92" rx="18" fill="#ECFDF5" stroke="#99F6E4" stroke-width="2"/>
+  <text x="354" y="181" fill="#0F766E" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Dashboard Tool</text>
+  <text x="354" y="216" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">Power BI</text>
+
+  <rect x="600" y="145" width="245" height="92" rx="18" fill="#FFFBEB" stroke="#FDE68A" stroke-width="2"/>
+  <text x="624" y="181" fill="#B45309" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Data Stack</text>
+  <text x="624" y="216" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">Python + SQL</text>
+
+  <rect x="870" y="145" width="245" height="92" rx="18" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="2"/>
+  <text x="894" y="181" fill="#BE185D" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Builder Mode</text>
+  <text x="894" y="216" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">Projects</text>
+
+  <rect x="60" y="270" width="515" height="90" rx="18" fill="#111827"/>
+  <text x="88" y="305" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Skill Momentum</text>
+  <rect x="88" y="326" width="395" height="12" rx="6" fill="#334155"/>
+  <rect x="88" y="326" width="312" height="12" rx="6" fill="#2F80ED"/>
+  <text x="502" y="341" fill="#F2C811" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="900">79%</text>
+
+  <rect x="625" y="270" width="490" height="90" rx="18" fill="#111827"/>
+  <text x="653" y="305" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Project Energy</text>
+  <rect x="660" y="323" width="44" height="23" rx="6" fill="#2563EB"/>
+  <rect x="718" y="309" width="44" height="37" rx="6" fill="#14B8A6"/>
+  <rect x="776" y="292" width="44" height="54" rx="6" fill="#F2C811"/>
+  <rect x="834" y="316" width="44" height="30" rx="6" fill="#F97316"/>
+  <path d="M914 337C940 306 971 315 996 289C1026 258 1057 273 1080 248" stroke="#F8FAFC" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="996" cy="289" r="8" fill="#F2C811"/>
+  <circle cx="1080" cy="248" r="8" fill="#F2C811"/>
+</svg>
