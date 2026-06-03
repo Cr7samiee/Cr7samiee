@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:0EA5E9&amp;height=220&amp;section=header&amp;text=Samir%20Poudel&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=%F0%9F%A4%96%20AI%20%26%20Data%20Enthusiast%20%7C%20BIT%20Student%20%7C%20Builder%20from%20Kathmandu&amp;descAlignY=62&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="Samir Poudel"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=220&section=header&text=Samir%20Poudel&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20AI%20%26%20Data%20Enthusiast%20%7C%20BIT%20Student%20%7C%20Builder%20from%20Kathmandu&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Samir Poudel"/>
 
 <br/>
 
@@ -32,36 +32,6 @@ samir = {
 ```
 
 > *"I don't just study technology — I build with it. Every semester, one harder project."*
-
----
-
-## 📊 Live GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cr7samiee&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=1D4ED8&amp;text_color=CBD5E1&amp;ring_color=1D4ED8&amp;count_private=true&amp;include_all_commits=true" height="180" alt="Samir's GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr7samiee&amp;layout=donut&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=8" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Cr7samiee&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=1D4ED8&amp;ring=38BDF8&amp;fire=F2C811&amp;currStreakLabel=38BDF8&amp;sideLabels=CBD5E1&amp;dates=64748B" width="55%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cr7samiee&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=1D4ED8&amp;point=F2C811&amp;area=true&amp;area_color=1D4ED8&amp;hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 Achievement Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cr7samiee&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -138,26 +108,12 @@ samir = {
 [![Gmail](https://img.shields.io/badge/Gmail-cr7samiee33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cr7samiee33@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Cr7samiee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cr7samiee)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/samir-poudel-2539312a0/">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Cr7samiee">
-  <img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:cr7samiee33@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Gmail"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,50:1D4ED8,100:0F172A&amp;height=130&amp;section=footer&amp;text=Learning%20daily.%20Building%20visually.%20Growing%20into%20AI.%20%F0%9F%9A%80&amp;fontSize=14&amp;fontColor=CBD5E1&amp;fontAlignY=65" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1D4ED8,100:0F172A&height=130&section=footer&text=Learning%20daily.%20Building%20visually.%20Growing%20into%20AI.%20%F0%9F%9A%80&fontSize=14&fontColor=CBD5E1&fontAlignY=65" width="100%" alt="Footer"/>
 
 </div>
