@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:1D9E75,100:D85A30&height=200&section=header&text=Samir%20Poudel&fontSize=50&fontAlignY=38&desc=AI%20%26%20Data%20Enthusiast%20%7C%20Builder%20from%20Kathmandu%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&fontColor=ffffff&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F77DD,50:1D9E75,100:D85A30&amp;height=200&amp;section=header&amp;text=Samir%20Poudel&amp;fontSize=50&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Enthusiast%20%7C%20Builder%20from%20Kathmandu%20%F0%9F%87%B3%F0%9F%87%B5&amp;descAlignY=58&amp;fontColor=ffffff&amp;descSize=16" />
 
 </div>
 
@@ -130,6 +130,6 @@ C++        ████████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D85A30,50:1D9E75,100:7F77DD&height=160&section=footer&text=Learning%20daily.%20Building%20visually.%20Growing%20into%20AI.%20%F0%9F%9A%80&fontSize=14&fontAlignY=55&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D85A30,50:1D9E75,100:7F77DD&amp;height=160&amp;section=footer&amp;text=Learning%20daily.%20Building%20visually.%20Growing%20into%20AI.%20%F0%9F%9A%80&amp;fontSize=14&amp;fontAlignY=55&amp;fontColor=ffffff" />
 
 </div>
