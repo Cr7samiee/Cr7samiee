@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2463,50:2563EB,100:14B8A6&height=210&section=header&text=Samir%20Poudel&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Power%20BI%20Learner%20%7C%20BIT%20Student&descAlignY=58&descSize=18" width="100%" alt="Samir Poudel profile banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Samir Poudel profile banner" />
 
 <br />
 
@@ -10,25 +10,11 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h2>Hi, I'm Samir Poudel 💻✨</h2>
-      <p>
-        I'm a <b>BIT student at Kantipur City College, Kathmandu</b> with a growing focus on
-        <b>Artificial Intelligence, Data Science, dashboards, web apps, and smart systems</b>.
-      </p>
-      <p>
-        I like building projects that are practical, visual, and useful: from medicine reminders
-        and vaccination trackers to embedded systems and classic games. Right now, I am sharpening
-        my skills in <b>Python, Power BI, SQL, web development, and AI fundamentals</b>.
-      </p>
-  </td>
-  <td width="42%" align="center" valign="top">
-    <img src="./assets/cute-coder.svg" width="330" alt="Cute original character typing on a laptop" />
-  </td>
-  </tr>
-</table>
+## Hi, I'm Samir Poudel
+
+I'm a **BIT student at Kantipur City College, Kathmandu** with a growing focus on **Artificial Intelligence, Data Science, Power BI dashboards, web apps, and smart systems**.
+
+I like building projects that are practical, visual, and useful: from medicine reminders and vaccination trackers to embedded systems and classic games. Right now, I am sharpening my skills in **Python, Power BI, SQL, web development, and AI fundamentals**.
 
 ```python
 samir = {
@@ -42,11 +28,11 @@ samir = {
 
 ---
 
-## Data Dashboard
+## Contribution Graph
 
 <div align="center">
 
-<img src="./assets/data-stats-board.svg" width="100%" alt="Power BI inspired dashboard showing Samir's focus areas" />
+<img src="./assets/contribution-graph.svg" width="100%" alt="Cr7samiee contribution graph" />
 
 </div>
 
@@ -94,11 +80,11 @@ samir = {
 
 ---
 
-## GitHub Analytics
+## GitHub Snapshot
 
 <div align="center">
 
-<img src="./assets/github-analytics-board.svg" width="100%" alt="GitHub analytics board with stable local visuals" />
+<img src="./assets/github-analytics-board.svg" width="100%" alt="GitHub snapshot board with stable local visuals" />
 
 </div>
 
