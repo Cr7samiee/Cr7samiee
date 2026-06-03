@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Samir Poudel - AI and Data Science Enthusiast banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2463,50:2563EB,100:14B8A6&height=210&section=header&text=Samir%20Poudel&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Power%20BI%20Learner%20%7C%20BIT%20Student&descAlignY=58&descSize=18" width="100%" alt="Samir Poudel profile banner" />
 
 <br />
 
@@ -98,12 +98,7 @@ samir = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cr7samiee&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6&ring_color=F2C811&count_private=true" height="165" alt="Samir's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr7samiee&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155" height="165" alt="Samir's most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Cr7samiee&theme=transparent&hide_border=true&ring=F2C811&fire=F97316&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" alt="Samir's GitHub streak" />
+<img src="./assets/github-analytics-board.svg" width="100%" alt="GitHub analytics board with stable local visuals" />
 
 </div>
 

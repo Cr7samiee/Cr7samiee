@@ -1,0 +1,29 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="310" rx="20" fill="#F8FAFC"/>
+  <rect x="30" y="28" width="1140" height="254" rx="18" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2"/>
+
+  <text x="64" y="76" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">GitHub Activity Board</text>
+  <text x="64" y="108" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Stable local visual, no external stat fetching errors</text>
+
+  <rect x="64" y="138" width="250" height="88" rx="14" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="2"/>
+  <text x="88" y="174" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">PROFILE</text>
+  <text x="88" y="208" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="900">Cr7samiee</text>
+
+  <rect x="338" y="138" width="250" height="88" rx="14" fill="#ECFDF5" stroke="#99F6E4" stroke-width="2"/>
+  <text x="362" y="174" fill="#0F766E" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">BUILDING</text>
+  <text x="362" y="208" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="900">Projects</text>
+
+  <rect x="612" y="138" width="250" height="88" rx="14" fill="#FFFBEB" stroke="#FDE68A" stroke-width="2"/>
+  <text x="636" y="174" fill="#B45309" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">LEARNING</text>
+  <text x="636" y="208" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="900">AI + Data</text>
+
+  <rect x="886" y="138" width="250" height="88" rx="14" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="2"/>
+  <text x="910" y="174" fill="#BE185D" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">NEXT STEP</text>
+  <text x="910" y="208" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="900">Internship</text>
+
+  <rect x="64" y="248" width="1072" height="8" rx="4" fill="#E2E8F0"/>
+  <rect x="64" y="248" width="310" height="8" rx="4" fill="#2563EB"/>
+  <rect x="374" y="248" width="250" height="8" fill="#14B8A6"/>
+  <rect x="624" y="248" width="260" height="8" fill="#F2C811"/>
+  <rect x="884" y="248" width="252" height="8" rx="4" fill="#F97316"/>
+</svg>
