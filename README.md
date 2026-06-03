@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=220&section=header&text=Samir%20Poudel&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20AI%20%26%20Data%20Enthusiast%20%7C%20BIT%20Student%20%7C%20Builder%20from%20Kathmandu&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
@@ -64,7 +62,7 @@ samir = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cr7samiee&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Cr7samiee&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -154,7 +152,3 @@ samir = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1D4ED8,100:0F172A&height=130&section=footer&text=Learning%20daily.%20Building%20visually.%20Growing%20into%20AI.%20%F0%9F%9A%80&fontSize=14&fontColor=CBD5E1&fontAlignY=65" width="100%"/>
 
 </div>
-
-
-
-
