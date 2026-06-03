@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F77DD,50:1D9E75,100:D85A30&amp;height=200&amp;section=header&amp;text=Samir%20Poudel&amp;fontSize=50&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Enthusiast%20%7C%20Builder%20from%20Kathmandu%20%F0%9F%87%B3%F0%9F%87%B5&amp;descAlignY=58&amp;fontColor=ffffff&amp;descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F77DD,50:1D9E75,100:D85A30&amp;height=180&amp;section=header&amp;text=Samir%20Poudel&amp;fontSize=52&amp;fontAlignY=45&amp;fontColor=ffffff" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=BIT+Student+%40+Kantipur+City+College;AI+%26+Data+Science+Enthusiast;Power+BI+%7C+Python+%7C+Machine+Learning;Build+first+%E2%86%92+Learn+deeper+%E2%86%92+Improve+%F0%9F%94%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=AI+%26+Data+Enthusiast+%7C+Builder+from+Kathmandu+%F0%9F%87%B3%F0%9F%87%B5;BIT+Student+%40+Kantipur+City+College;Power+BI+%7C+Python+%7C+Machine+Learning;Build+first+%E2%86%92+Learn+deeper+%E2%86%92+Improve+%F0%9F%94%84)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,14 +29,14 @@ const samir = {
 
 ## 🛠️ Tech Toolbox
 
-### 🤖 AI, Data & Analytics
+### 🤖 AI, Data and Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-0EA5E9?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square)
 
-### 💻 Programming & Web
+### 💻 Programming and Web
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -49,7 +45,7 @@ const samir = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -65,11 +61,11 @@ const samir = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🏥 **MedTracker** | Medicine reminder system with real-time Email & SMS alerts | PHP, JavaScript, API |
+| 🏥 **MedTracker** | Medicine reminder system with real-time Email and SMS alerts | PHP, JavaScript, API |
 | 💉 **Child Vaccination Tracker** | Smart vaccination scheduler with automated parent notifications | Java |
 | 🌾 **Smart Poultry Water Feeder** | Automated water-level monitoring for poultry farms using microcontrollers | Embedded C, 8051 |
-| 🚀 **Space Impact Game** | Space shooter with enemy waves, collision detection & high scoring | Java |
-| 🧱 **Tetris Game** | Full Tetris with graphical rendering, score & collision logic | C++, graphics.h |
+| 🚀 **Space Impact Game** | Space shooter with enemy waves, collision detection and high scoring | Java |
+| 🧱 **Tetris Game** | Full Tetris with graphical rendering, score and collision logic | C++, graphics.h |
 | 📊 **Power BI Dashboards** | Two dashboards — fundamentals to advanced interactive reporting | Power BI |
 
 ---
@@ -111,9 +107,9 @@ C++        ████████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-1D9E75?style=for-the-badge&labelColor=085041)
-![Hackathons](https://img.shields.io/badge/⚡_Hackathons-Ready-7F77DD?style=for-the-badge&labelColor=3C3489)
-![Internships](https://img.shields.io/badge/💼_Internships-Available-D85A30?style=for-the-badge&labelColor=712B13)
+![Collaborations](https://img.shields.io/badge/Collaborations-Open-1D9E75?style=for-the-badge&labelColor=085041)
+![Hackathons](https://img.shields.io/badge/Hackathons-Ready-7F77DD?style=for-the-badge&labelColor=3C3489)
+![Internships](https://img.shields.io/badge/Internships-Available-D85A30?style=for-the-badge&labelColor=712B13)
 
 </div>
 
@@ -121,7 +117,6 @@ C++        ████████░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 💡 Profile Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=Cr7samiee&color=7F77DD&style=flat-square&label=Profile+Views)
 
 </div>
