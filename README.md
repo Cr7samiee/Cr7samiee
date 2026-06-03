@@ -1,6 +1,14 @@
-# 👋 Samir Poudel
+<div align="center">
 
-🤖 **AI & Data Enthusiast** · **BIT Student** · **Builder from Kathmandu 🇳🇵**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:1D9E75,100:D85A30&height=200&section=header&text=Samir%20Poudel&fontSize=50&fontAlignY=38&desc=AI%20%26%20Data%20Enthusiast%20%7C%20Builder%20from%20Kathmandu%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&fontColor=ffffff&descSize=16" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=BIT+Student+%40+Kantipur+City+College;AI+%26+Data+Science+Enthusiast;Power+BI+%7C+Python+%7C+Machine+Learning;Build+first+%E2%86%92+Learn+deeper+%E2%86%92+Improve+%F0%9F%94%84)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -100,15 +108,28 @@ C++        ████████░░░░░░░░░░░░░░░
 ---
 
 ## 🎯 Open To
-- 🤝 **Collaborations**
-- ⚡ **Hackathons**
+
+<div align="center">
+
+![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-1D9E75?style=for-the-badge&labelColor=085041)
+![Hackathons](https://img.shields.io/badge/⚡_Hackathons-Ready-7F77DD?style=for-the-badge&labelColor=3C3489)
+![Internships](https://img.shields.io/badge/💼_Internships-Available-D85A30?style=for-the-badge&labelColor=712B13)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Learning daily. Building visually. Growing into AI. 🚀**
+### 💡 Profile Visits
+![Profile Views](https://komarev.com/ghpvc/?username=Cr7samiee&color=7F77DD&style=flat-square&label=Profile+Views)
 
-*Kantipur City College · Kathmandu, Nepal · 2026*
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D85A30,50:1D9E75,100:7F77DD&height=160&section=footer&text=Learning%20daily.%20Building%20visually.%20Growing%20into%20AI.%20%F0%9F%9A%80&fontSize=14&fontAlignY=55&fontColor=ffffff" />
 
 </div>
