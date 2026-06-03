@@ -102,8 +102,6 @@ C++        ████████░░░░░░░░░░░░░░░
 ---
 
 ## 🎯 Open To
-
-- 💼 **Internships**
 - 🤝 **Collaborations**
 - ⚡ **Hackathons**
 
