@@ -79,11 +79,9 @@ C++        ████████░░░░░░░░░░░░░░░
 
 ### GitHub Stats
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cr7samiee&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Cr7samiee's GitHub Streak](https://streak-stats.demolab.com?user=Cr7samiee&theme=algolia)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cr7samiee&theme=algolia&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr7samiee&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
+![Cr7samiee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr7samiee&theme=algolia&hide_border=true&layout=compact)
 
 ---
 
